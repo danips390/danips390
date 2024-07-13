@@ -27,11 +27,6 @@ I am a dedicated and responsible individual with a strong interest in scientific
 <br/>  
 <br/> 
 
-<h1 align="center">My stackoverflow Profile</h1>
-
-<div align="center">
-
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=YOUR_STACKOVERFLOW_USER_ID)
 
 </div>
 
