@@ -36,6 +36,6 @@ I am a dedicated and responsible individual with a strong interest in scientific
 </p>  
 <br/> 
 
-<a href="https://github.com/danielpereira-sandino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpereira-sandino&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=danielpereira-sandino&&style=flat-square" align="center" /> </div>
