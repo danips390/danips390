@@ -7,7 +7,7 @@ I am a Data Science and Machine Learning Enthusiast
 I am a dedicated and responsible individual with a strong interest in scientific and computational fields. Currently, I am pursuing a degree in Industrial Physics Engineering at Tecnológico de Monterrey with a focus on data science and machine learning. My goal is to contribute to projects where I can grow professionally by applying my knowledge in these areas.
 
 * 🌍  I'm based in Monterrey, Nuevo León, Mexico
-* ✉️  You can contact me at [A00832699@tec.mx](mailto:A00832699@tec.mx)
+* ✉️  You can contact me at [A00832699@tec.mx](mailto:A00832699@tec.mx) or [danpersan390@gmail.com](mailto:danpersan390@gmail.com)
 * 🧠  I'm learning advanced machine learning techniques and data science methodologies
 * 🤝  I'm open to collaborating on open source projects and research initiatives
 
