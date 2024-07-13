@@ -11,8 +11,6 @@ I am a dedicated and responsible individual with a strong interest in scientific
 * 🧠  I'm learning advanced machine learning techniques and data science methodologies
 * 🤝  I'm open to collaborating on open source projects and research initiatives
 
-<a href="https://www.github.com/danielpereira-sandino" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielpereira-sandino?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 <h1 align="center">Languages and Tools:</h1>
 <br/> 
