@@ -21,13 +21,11 @@ I am a dedicated and responsible individual with a strong interest in scientific
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> </a> 
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg" alt="msoffice" width="40" height="40"/> </a>
-<a href="https://geant4.web.cern.ch/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Geant4_Logo.png/800px-Geant4_Logo.png" alt="geant4" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_Icon.png" alt="msoffice" width="40" height="40"/> </a>
+<a href="https://geant4.web.cern.ch/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GEANT4_logo.svg/1200px-GEANT4_logo.svg.png" alt="geant4" width="40" height="40"/> </a> 
 </p>
 <br/>  
 <br/> 
-
-
 
 </div>
 
